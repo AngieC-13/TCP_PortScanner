@@ -1,0 +1,13 @@
+A simple TCP port scanner.
+
+It will perform the following actions:
+
+It asks what particular IP you want to see and will scan the parts that can range from 1-1000. It will notify if the port is open or closed.
+
+If the port recieves no response it will state that port is possibly closed or maybe behind a firewall.
+
+It will also print how many ports are open, closed, or recieved no response.
+
+Goal:
+
+To find any ports that are open that could lead to potential threats.
